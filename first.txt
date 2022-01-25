@@ -3,3 +3,4 @@
 3.git addとgit commitを更新しました。
 4.git rmなど複数ファイルの更新の練習です。
 5.git statusの練習です。
+6.git diffの練習です。 
